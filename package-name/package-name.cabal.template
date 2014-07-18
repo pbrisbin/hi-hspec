@@ -28,4 +28,4 @@ Test-Suite spec
 
 Source-Repository head
   Type:                 git
-  Location:             https://github.com/pbrisbin/$projectName
+  Location:             https://github.com/pbrisbin/$packageName

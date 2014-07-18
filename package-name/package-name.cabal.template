@@ -2,7 +2,7 @@ Name:                   $packageName
 Version:                0.0.0
 Author:                 $author <$email>
 Maintainer:             $author <$email>
-License:                BSD3
+License:                MIT
 License-File:           LICENSE
 -- Synopsis:               Short description, appears in Hackage listings
 -- Description:            Long explanation, appears at top of project page

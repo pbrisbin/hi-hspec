@@ -4,8 +4,8 @@ Author:                 $author <$email>
 Maintainer:             $author <$email>
 License:                BSD3
 License-File:           LICENSE
--- Synopsis:               
--- Description:            
+-- Synopsis:               Short description, appears in Hackage listings
+-- Description:            Long explanation, appears at top of project page
 Cabal-Version:          >= 1.10
 Build-Type:             Simple
 
@@ -29,4 +29,4 @@ Test-Suite spec
 
 Source-Repository head
   Type:                 git
---  Location:             
+  Location:             https://github.com/pbrisbin/$projectName

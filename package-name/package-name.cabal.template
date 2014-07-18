@@ -20,11 +20,11 @@ Library
 Test-Suite spec
   Type:                 exitcode-stdio-1.0
   Default-Language:     Haskell2010
-  Hs-Source-Dirs:       src
-                      , test
+  Hs-Source-Dirs:       test
   Ghc-Options:          -Wall
   Main-Is:              Spec.hs
   Build-Depends:        base
+                      , $packageName
                       , hspec
 
 Source-Repository head
